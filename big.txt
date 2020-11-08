@@ -1,0 +1,3000 @@
+lem-in
+
+real	0m2.483s
+user	0m2.250s
+sys	0m0.219s
+43;43
+lem-in
+
+real	0m1.705s
+user	0m1.530s
+sys	0m0.168s
+59;59
+lem-in
+
+real	0m2.969s
+user	0m2.687s
+sys	0m0.262s
+42;42
+lem-in
+
+real	0m2.241s
+user	0m2.023s
+sys	0m0.208s
+58;58
+lem-in
+
+real	0m1.565s
+user	0m1.386s
+sys	0m0.170s
+53;53
+lem-in
+
+real	0m1.923s
+user	0m1.689s
+sys	0m0.211s
+50;48
+lem-in
+
+real	0m0.738s
+user	0m0.612s
+sys	0m0.121s
+90;90
+lem-in
+
+real	0m1.604s
+user	0m1.409s
+sys	0m0.183s
+55;55
+lem-in
+
+real	0m1.614s
+user	0m1.421s
+sys	0m0.178s
+51;51
+lem-in
+
+real	0m1.669s
+user	0m1.444s
+sys	0m0.205s
+76;76
+lem-in
+
+real	0m2.127s
+user	0m1.908s
+sys	0m0.206s
+47;47
+lem-in
+
+real	0m1.337s
+user	0m1.162s
+sys	0m0.165s
+73;73
+lem-in
+
+real	0m2.265s
+user	0m2.015s
+sys	0m0.234s
+67;68
+lem-in
+
+real	0m0.737s
+user	0m0.628s
+sys	0m0.104s
+63;63
+lem-in
+
+real	0m0.961s
+user	0m0.838s
+sys	0m0.118s
+65;65
+lem-in
+
+real	0m2.009s
+user	0m1.792s
+sys	0m0.209s
+60;60
+lem-in
+
+real	0m3.487s
+user	0m3.184s
+sys	0m0.280s
+43;43
+lem-in
+
+real	0m2.019s
+user	0m1.825s
+sys	0m0.186s
+57;57
+lem-in
+
+real	0m1.625s
+user	0m1.429s
+sys	0m0.186s
+48;48
+lem-in
+
+real	0m1.792s
+user	0m1.581s
+sys	0m0.196s
+50;50
+lem-in
+
+real	0m3.690s
+user	0m3.331s
+sys	0m0.312s
+56;56
+lem-in
+
+real	0m2.502s
+user	0m2.254s
+sys	0m0.230s
+47;47
+lem-in
+
+real	0m1.852s
+user	0m1.666s
+sys	0m0.173s
+45;45
+lem-in
+
+real	0m3.179s
+user	0m2.894s
+sys	0m0.264s
+50;50
+lem-in
+
+real	0m2.219s
+user	0m1.976s
+sys	0m0.228s
+66;66
+lem-in
+
+real	0m1.400s
+user	0m1.215s
+sys	0m0.178s
+61;62
+lem-in
+
+real	0m1.994s
+user	0m1.772s
+sys	0m0.208s
+61;61
+lem-in
+
+real	0m1.123s
+user	0m0.980s
+sys	0m0.137s
+58;58
+lem-in
+
+real	0m1.210s
+user	0m1.063s
+sys	0m0.143s
+55;55
+lem-in
+
+real	0m2.443s
+user	0m2.192s
+sys	0m0.232s
+55;56
+lem-in
+
+real	0m1.632s
+user	0m1.438s
+sys	0m0.184s
+57;57
+lem-in
+
+real	0m1.944s
+user	0m1.727s
+sys	0m0.207s
+58;58
+lem-in
+
+real	0m0.994s
+user	0m0.841s
+sys	0m0.147s
+85;85
+lem-in
+
+real	0m1.504s
+user	0m1.300s
+sys	0m0.192s
+79;79
+lem-in
+
+real	0m2.901s
+user	0m2.632s
+sys	0m0.251s
+47;47
+lem-in
+
+real	0m1.788s
+user	0m1.569s
+sys	0m0.210s
+73;73
+lem-in
+
+real	0m3.459s
+user	0m3.158s
+sys	0m0.278s
+43;43
+lem-in
+
+real	0m2.749s
+user	0m2.470s
+sys	0m0.269s
+66;66
+lem-in
+
+real	0m1.933s
+user	0m1.718s
+sys	0m0.203s
+58;58
+lem-in
+
+real	0m2.952s
+user	0m2.656s
+sys	0m0.279s
+64;64
+lem-in
+
+real	0m2.162s
+user	0m1.932s
+sys	0m0.222s
+62;62
+lem-in
+
+real	0m0.817s
+user	0m0.674s
+sys	0m0.133s
+83;83
+lem-in
+
+real	0m1.397s
+user	0m1.213s
+sys	0m0.178s
+82;82
+lem-in
+
+real	0m2.109s
+user	0m1.889s
+sys	0m0.210s
+51;51
+lem-in
+
+real	0m1.828s
+user	0m1.646s
+sys	0m0.168s
+50;50
+lem-in
+
+real	0m1.970s
+user	0m1.731s
+sys	0m0.222s
+73;73
+lem-in
+
+real	0m3.040s
+user	0m2.753s
+sys	0m0.260s
+48;48
+lem-in
+
+real	0m2.389s
+user	0m2.119s
+sys	0m0.256s
+43;42
+lem-in
+
+real	0m1.188s
+user	0m1.043s
+sys	0m0.139s
+63;63
+lem-in
+
+real	0m2.451s
+user	0m2.166s
+sys	0m0.269s
+65;65
+lem-in
+
+real	0m1.683s
+user	0m1.477s
+sys	0m0.195s
+55;55
+lem-in
+
+real	0m2.624s
+user	0m2.365s
+sys	0m0.243s
+59;59
+lem-in
+
+real	0m1.068s
+user	0m0.938s
+sys	0m0.125s
+48;49
+lem-in
+
+real	0m2.681s
+user	0m2.397s
+sys	0m0.270s
+49;50
+lem-in
+
+real	0m1.188s
+user	0m1.002s
+sys	0m0.176s
+94;95
+lem-in
+
+real	0m2.372s
+user	0m2.133s
+sys	0m0.228s
+51;51
+lem-in
+
+real	0m3.135s
+user	0m2.856s
+sys	0m0.258s
+48;48
+lem-in
+
+real	0m3.255s
+user	0m2.965s
+sys	0m0.272s
+50;50
+lem-in
+
+real	0m2.446s
+user	0m2.193s
+sys	0m0.242s
+62;62
+lem-in
+
+real	0m1.538s
+user	0m1.332s
+sys	0m0.198s
+68;69
+lem-in
+
+real	0m2.418s
+user	0m2.171s
+sys	0m0.234s
+58;58
+lem-in
+
+real	0m1.068s
+user	0m0.911s
+sys	0m0.143s
+56;56
+lem-in
+
+real	0m1.622s
+user	0m1.422s
+sys	0m0.189s
+58;58
+lem-in
+
+real	0m2.316s
+user	0m2.074s
+sys	0m0.226s
+52;52
+lem-in
+
+real	0m0.948s
+user	0m0.809s
+sys	0m0.130s
+46;46
+lem-in
+
+real	0m1.365s
+user	0m1.209s
+sys	0m0.149s
+55;55
+lem-in
+
+real	0m0.905s
+user	0m0.764s
+sys	0m0.132s
+77;77
+lem-in
+
+real	0m1.131s
+user	0m0.976s
+sys	0m0.150s
+74;74
+lem-in
+
+real	0m1.670s
+user	0m1.471s
+sys	0m0.190s
+48;48
+lem-in
+
+real	0m2.696s
+user	0m2.447s
+sys	0m0.235s
+45;45
+lem-in
+
+real	0m2.223s
+user	0m1.944s
+sys	0m0.253s
+71;71
+lem-in
+
+real	0m0.764s
+user	0m0.646s
+sys	0m0.113s
+68;68
+lem-in
+
+real	0m1.714s
+user	0m1.482s
+sys	0m0.219s
+63;63
+lem-in
+
+real	0m2.565s
+user	0m2.296s
+sys	0m0.257s
+65;65
+lem-in
+
+real	0m1.137s
+user	0m0.993s
+sys	0m0.136s
+57;55
+lem-in
+
+real	0m2.587s
+user	0m2.206s
+sys	0m0.296s
+60;60
+lem-in
+
+real	0m1.718s
+user	0m1.470s
+sys	0m0.212s
+46;46
+lem-in
+
+real	0m2.787s
+user	0m2.453s
+sys	0m0.299s
+52;52
+lem-in
+
+real	0m1.457s
+user	0m1.256s
+sys	0m0.180s
+79;79
+lem-in
+
+real	0m1.612s
+user	0m1.432s
+sys	0m0.170s
+49;49
+lem-in
+
+real	0m3.304s
+user	0m3.000s
+sys	0m0.283s
+53;53
+lem-in
+
+real	0m2.732s
+user	0m2.470s
+sys	0m0.247s
+48;48
+lem-in
+
+real	0m1.836s
+user	0m1.624s
+sys	0m0.198s
+60;60
+lem-in
+
+real	0m3.264s
+user	0m2.960s
+sys	0m0.280s
+43;43
+lem-in
+
+real	0m1.843s
+user	0m1.644s
+sys	0m0.187s
+65;65
+lem-in
+
+real	0m2.208s
+user	0m1.992s
+sys	0m0.200s
+43;43
+lem-in
+
+real	0m1.390s
+user	0m1.238s
+sys	0m0.145s
+55;55
+lem-in
+
+real	0m3.014s
+user	0m2.733s
+sys	0m0.265s
+55;55
+lem-in
+
+real	0m2.751s
+user	0m2.488s
+sys	0m0.254s
+52;52
+lem-in
+
+real	0m0.991s
+user	0m0.852s
+sys	0m0.133s
+79;79
+lem-in
+
+real	0m1.768s
+user	0m1.548s
+sys	0m0.202s
+47;47
+lem-in
+
+real	0m2.726s
+user	0m2.476s
+sys	0m0.240s
+53;54
+lem-in
+
+real	0m1.709s
+user	0m1.494s
+sys	0m0.196s
+48;48
+lem-in
+
+real	0m1.206s
+user	0m1.047s
+sys	0m0.153s
+69;69
+lem-in
+
+real	0m1.437s
+user	0m1.259s
+sys	0m0.165s
+65;65
+lem-in
+
+real	0m3.188s
+user	0m2.914s
+sys	0m0.259s
+42;42
+lem-in
+
+real	0m2.329s
+user	0m2.085s
+sys	0m0.233s
+60;60
+lem-in
+
+real	0m1.330s
+user	0m1.161s
+sys	0m0.160s
+54;54
+lem-in
+
+real	0m1.465s
+user	0m1.289s
+sys	0m0.169s
+60;60
+lem-in
+
+real	0m2.386s
+user	0m2.153s
+sys	0m0.221s
+54;54
+lem-in
+
+real	0m1.836s
+user	0m1.641s
+sys	0m0.188s
+51;51
+lem-in
+
+real	0m0.868s
+user	0m0.742s
+sys	0m0.123s
+77;77
+lem-in
+
+real	0m1.494s
+user	0m1.269s
+sys	0m0.212s
+77;77
+lem-in
+
+real	0m1.215s
+user	0m1.083s
+sys	0m0.127s
+42;42
+lem-in
+
+real	0m1.904s
+user	0m1.720s
+sys	0m0.175s
+47;47
+lem-in
+
+real	0m1.610s
+user	0m1.422s
+sys	0m0.182s
+64;64
+lem-in
+
+real	0m1.432s
+user	0m1.257s
+sys	0m0.165s
+66;66
+lem-in
+
+real	0m3.913s
+user	0m3.553s
+sys	0m0.337s
+44;44
+lem-in
+
+real	0m1.946s
+user	0m1.702s
+sys	0m0.213s
+59;59
+lem-in
+
+real	0m1.540s
+user	0m1.366s
+sys	0m0.167s
+56;56
+lem-in
+
+real	0m2.310s
+user	0m2.080s
+sys	0m0.215s
+57;57
+lem-in
+
+real	0m0.939s
+user	0m0.807s
+sys	0m0.121s
+53;54
+lem-in
+
+real	0m1.826s
+user	0m1.604s
+sys	0m0.206s
+51;51
+lem-in
+
+real	0m4.552s
+user	0m4.148s
+sys	0m0.372s
+57;57
+lem-in
+
+real	0m3.288s
+user	0m2.992s
+sys	0m0.280s
+51;51
+lem-in
+
+real	0m2.443s
+user	0m2.202s
+sys	0m0.226s
+49;50
+lem-in
+
+real	0m1.325s
+user	0m1.152s
+sys	0m0.167s
+65;65
+lem-in
+
+real	0m1.664s
+user	0m1.465s
+sys	0m0.188s
+70;70
+lem-in
+
+real	0m1.340s
+user	0m1.162s
+sys	0m0.172s
+65;65
+lem-in
+
+real	0m2.009s
+user	0m1.781s
+sys	0m0.221s
+67;67
+lem-in
+
+real	0m2.375s
+user	0m2.136s
+sys	0m0.229s
+60;60
+lem-in
+
+real	0m1.305s
+user	0m1.144s
+sys	0m0.154s
+60;60
+lem-in
+
+real	0m2.166s
+user	0m1.932s
+sys	0m0.225s
+61;61
+lem-in
+
+real	0m1.611s
+user	0m1.405s
+sys	0m0.188s
+56;56
+lem-in
+
+real	0m1.395s
+user	0m1.224s
+sys	0m0.159s
+54;54
+lem-in
+
+real	0m3.162s
+user	0m2.862s
+sys	0m0.279s
+56;56
+lem-in
+
+real	0m4.135s
+user	0m3.703s
+sys	0m0.392s
+48;48
+lem-in
+
+real	0m3.049s
+user	0m2.692s
+sys	0m0.326s
+43;42
+lem-in
+
+real	0m2.439s
+user	0m2.130s
+sys	0m0.281s
+67;67
+lem-in
+
+real	0m0.931s
+user	0m0.799s
+sys	0m0.122s
+58;58
+lem-in
+
+real	0m1.990s
+user	0m1.693s
+sys	0m0.242s
+53;53
+lem-in
+
+real	0m2.935s
+user	0m2.627s
+sys	0m0.285s
+56;56
+lem-in
+
+real	0m2.747s
+user	0m2.337s
+sys	0m0.307s
+52;53
+lem-in
+
+real	0m2.017s
+user	0m1.759s
+sys	0m0.246s
+85;86
+lem-in
+
+real	0m2.125s
+user	0m1.889s
+sys	0m0.217s
+49;49
+lem-in
+
+real	0m0.992s
+user	0m0.843s
+sys	0m0.142s
+80;80
+lem-in
+
+real	0m1.451s
+user	0m1.252s
+sys	0m0.183s
+68;68
+lem-in
+
+real	0m2.142s
+user	0m1.893s
+sys	0m0.206s
+50;50
+lem-in
+
+real	0m1.786s
+user	0m1.571s
+sys	0m0.205s
+70;70
+lem-in
+
+real	0m1.961s
+user	0m1.761s
+sys	0m0.189s
+39;39
+lem-in
+
+real	0m1.049s
+user	0m0.907s
+sys	0m0.135s
+65;65
+lem-in
+
+real	0m1.155s
+user	0m1.005s
+sys	0m0.142s
+64;64
+lem-in
+
+real	0m1.417s
+user	0m1.249s
+sys	0m0.154s
+59;60
+lem-in
+
+real	0m3.230s
+user	0m2.908s
+sys	0m0.300s
+65;65
+lem-in
+
+real	0m2.108s
+user	0m1.890s
+sys	0m0.207s
+53;53
+lem-in
+
+real	0m0.904s
+user	0m0.785s
+sys	0m0.114s
+52;53
+lem-in
+
+real	0m1.304s
+user	0m1.145s
+sys	0m0.152s
+60;60
+lem-in
+
+real	0m2.634s
+user	0m2.383s
+sys	0m0.237s
+57;57
+lem-in
+
+real	0m1.746s
+user	0m1.553s
+sys	0m0.185s
+47;47
+lem-in
+
+real	0m3.314s
+user	0m3.026s
+sys	0m0.274s
+54;54
+lem-in
+
+real	0m1.500s
+user	0m1.315s
+sys	0m0.173s
+67;67
+lem-in
+
+real	0m3.779s
+user	0m3.460s
+sys	0m0.303s
+48;48
+lem-in
+
+real	0m2.828s
+user	0m2.581s
+sys	0m0.237s
+43;43
+lem-in
+
+real	0m1.924s
+user	0m1.713s
+sys	0m0.201s
+59;59
+lem-in
+
+real	0m1.081s
+user	0m0.937s
+sys	0m0.136s
+54;54
+lem-in
+
+real	0m1.002s
+user	0m0.872s
+sys	0m0.124s
+55;55
+lem-in
+
+real	0m1.398s
+user	0m1.237s
+sys	0m0.155s
+53;53
+lem-in
+
+real	0m2.320s
+user	0m2.113s
+sys	0m0.199s
+53;53
+lem-in
+
+real	0m1.874s
+user	0m1.676s
+sys	0m0.191s
+54;54
+lem-in
+
+real	0m1.943s
+user	0m1.755s
+sys	0m0.180s
+53;54
+lem-in
+
+real	0m1.373s
+user	0m1.206s
+sys	0m0.162s
+73;73
+lem-in
+
+real	0m1.739s
+user	0m1.560s
+sys	0m0.173s
+48;48
+lem-in
+
+real	0m2.782s
+user	0m2.537s
+sys	0m0.234s
+50;50
+lem-in
+
+real	0m2.498s
+user	0m2.270s
+sys	0m0.217s
+47;47
+lem-in
+
+real	0m1.458s
+user	0m1.281s
+sys	0m0.170s
+66;66
+lem-in
+
+real	0m2.507s
+user	0m2.255s
+sys	0m0.238s
+61;61
+lem-in
+
+real	0m1.540s
+user	0m1.358s
+sys	0m0.176s
+62;62
+lem-in
+
+real	0m3.123s
+user	0m2.826s
+sys	0m0.284s
+63;64
+lem-in
+
+real	0m1.366s
+user	0m1.208s
+sys	0m0.152s
+52;52
+lem-in
+
+real	0m2.223s
+user	0m1.985s
+sys	0m0.225s
+55;55
+lem-in
+
+real	0m1.298s
+user	0m1.120s
+sys	0m0.170s
+83;83
+lem-in
+
+real	0m2.550s
+user	0m2.261s
+sys	0m0.273s
+56;56
+lem-in
+
+real	0m1.529s
+user	0m1.321s
+sys	0m0.192s
+73;73
+lem-in
+
+real	0m1.646s
+user	0m1.429s
+sys	0m0.180s
+43;42
+lem-in
+
+real	0m1.018s
+user	0m0.823s
+sys	0m0.152s
+70;71
+lem-in
+
+real	0m1.836s
+user	0m1.616s
+sys	0m0.211s
+74;74
+lem-in
+
+real	0m3.615s
+user	0m3.161s
+sys	0m0.331s
+43;43
+lem-in
+
+real	0m2.520s
+user	0m2.181s
+sys	0m0.276s
+61;61
+lem-in
+
+real	0m0.905s
+user	0m0.772s
+sys	0m0.125s
+59;59
+lem-in
+
+real	0m1.591s
+user	0m1.404s
+sys	0m0.175s
+58;58
+lem-in
+
+real	0m2.596s
+user	0m2.336s
+sys	0m0.238s
+58;58
+lem-in
+
+real	0m1.444s
+user	0m1.273s
+sys	0m0.160s
+52;59
+lem-in
+
+real	0m2.417s
+user	0m2.181s
+sys	0m0.222s
+51;52
+lem-in
+
+real	0m1.075s
+user	0m0.947s
+sys	0m0.124s
+45;45
+lem-in
+
+real	0m1.507s
+user	0m1.338s
+sys	0m0.160s
+49;49
+lem-in
+
+real	0m3.259s
+user	0m2.983s
+sys	0m0.264s
+51;51
+lem-in
+
+real	0m2.339s
+user	0m2.088s
+sys	0m0.229s
+49;49
+lem-in
+
+real	0m1.314s
+user	0m1.139s
+sys	0m0.162s
+69;69
+lem-in
+
+real	0m2.059s
+user	0m1.824s
+sys	0m0.220s
+63;63
+lem-in
+
+real	0m1.124s
+user	0m0.972s
+sys	0m0.140s
+58;58
+lem-in
+
+real	0m1.084s
+user	0m0.928s
+sys	0m0.139s
+62;62
+lem-in
+
+real	0m1.877s
+user	0m1.673s
+sys	0m0.194s
+61;61
+lem-in
+
+real	0m0.698s
+user	0m0.593s
+sys	0m0.099s
+51;51
+lem-in
+
+real	0m1.022s
+user	0m0.874s
+sys	0m0.122s
+50;50
+lem-in
+
+real	0m1.735s
+user	0m1.538s
+sys	0m0.186s
+55;55
+lem-in
+
+real	0m2.197s
+user	0m1.980s
+sys	0m0.206s
+53;53
+lem-in
+
+real	0m1.384s
+user	0m1.222s
+sys	0m0.149s
+52;52
+lem-in
+
+real	0m2.653s
+user	0m2.363s
+sys	0m0.257s
+52;52
+lem-in
+
+real	0m1.593s
+user	0m1.407s
+sys	0m0.176s
+51;51
+lem-in
+
+real	0m2.806s
+user	0m2.562s
+sys	0m0.229s
+47;47
+lem-in
+
+real	0m2.930s
+user	0m2.631s
+sys	0m0.288s
+73;74
+lem-in
+
+real	0m1.166s
+user	0m1.008s
+sys	0m0.153s
+68;68
+lem-in
+
+real	0m2.229s
+user	0m1.989s
+sys	0m0.230s
+64;64
+lem-in
+
+real	0m1.085s
+user	0m0.935s
+sys	0m0.144s
+67;67
+lem-in
+
+real	0m2.320s
+user	0m2.070s
+sys	0m0.235s
+58;58
+lem-in
+
+real	0m3.451s
+user	0m3.155s
+sys	0m0.285s
+60;60
+lem-in
+
+real	0m2.182s
+user	0m1.975s
+sys	0m0.199s
+52;52
+lem-in
+
+real	0m1.683s
+user	0m1.455s
+sys	0m0.213s
+82;82
+lem-in
+
+real	0m2.176s
+user	0m1.967s
+sys	0m0.200s
+48;48
+lem-in
+
+real	0m1.462s
+user	0m1.222s
+sys	0m0.229s
+81;81
+lem-in
+
+real	0m2.589s
+user	0m2.351s
+sys	0m0.228s
+44;44
+lem-in
+
+real	0m1.419s
+user	0m1.211s
+sys	0m0.193s
+65;65
+lem-in
+
+real	0m1.336s
+user	0m1.164s
+sys	0m0.162s
+66;66
+lem-in
+
+real	0m2.920s
+user	0m2.608s
+sys	0m0.284s
+41;41
+lem-in
+
+real	0m1.673s
+user	0m1.434s
+sys	0m0.219s
+62;60
+lem-in
+
+real	0m2.023s
+user	0m1.829s
+sys	0m0.187s
+58;58
+lem-in
+
+real	0m2.078s
+user	0m1.828s
+sys	0m0.240s
+63;63
+lem-in
+
+real	0m1.832s
+user	0m1.639s
+sys	0m0.185s
+54;55
+lem-in
+
+real	0m0.828s
+user	0m0.716s
+sys	0m0.106s
+46;46
+lem-in
+
+real	0m1.477s
+user	0m1.291s
+sys	0m0.170s
+48;48
+lem-in
+
+real	0m2.220s
+user	0m2.012s
+sys	0m0.200s
+55;56
+lem-in
+
+real	0m1.748s
+user	0m1.556s
+sys	0m0.185s
+52;52
+lem-in
+
+real	0m2.744s
+user	0m2.499s
+sys	0m0.237s
+46;46
+lem-in
+
+real	0m2.328s
+user	0m2.089s
+sys	0m0.230s
+48;48
+lem-in
+
+real	0m1.154s
+user	0m1.003s
+sys	0m0.144s
+64;64
+lem-in
+
+real	0m1.705s
+user	0m1.488s
+sys	0m0.199s
+63;63
+lem-in
+
+real	0m2.634s
+user	0m2.369s
+sys	0m0.256s
+63;63
+lem-in
+
+real	0m1.665s
+user	0m1.474s
+sys	0m0.178s
+61;61
+lem-in
+
+real	0m3.130s
+user	0m2.813s
+sys	0m0.303s
+62;62
+lem-in
+
+real	0m1.912s
+user	0m1.701s
+sys	0m0.199s
+57;57
+lem-in
+
+real	0m1.064s
+user	0m0.905s
+sys	0m0.154s
+88;89
+lem-in
+
+real	0m2.402s
+user	0m2.129s
+sys	0m0.257s
+53;53
+lem-in
+
+real	0m2.289s
+user	0m2.067s
+sys	0m0.213s
+52;53
+lem-in
+
+real	0m1.717s
+user	0m1.543s
+sys	0m0.167s
+43;43
+lem-in
+
+real	0m2.984s
+user	0m2.718s
+sys	0m0.252s
+51;51
+lem-in
+
+real	0m2.511s
+user	0m2.266s
+sys	0m0.238s
+44;44
+lem-in
+
+real	0m1.524s
+user	0m1.336s
+sys	0m0.183s
+70;70
+lem-in
+
+real	0m2.382s
+user	0m2.131s
+sys	0m0.241s
+63;63
+lem-in
+
+real	0m0.895s
+user	0m0.747s
+sys	0m0.135s
+56;56
+lem-in
+
+real	0m1.759s
+user	0m1.527s
+sys	0m0.200s
+62;62
+lem-in
+
+real	0m4.051s
+user	0m3.614s
+sys	0m0.392s
+58;58
+lem-in
+
+real	0m2.640s
+user	0m2.348s
+sys	0m0.263s
+52;53
+lem-in
+
+real	0m1.807s
+user	0m1.611s
+sys	0m0.188s
+49;49
+lem-in
+
+real	0m1.305s
+user	0m1.120s
+sys	0m0.180s
+85;85
+lem-in
+
+real	0m1.834s
+user	0m1.606s
+sys	0m0.221s
+79;79
+lem-in
+
+real	0m1.991s
+user	0m1.804s
+sys	0m0.182s
+45;45
+lem-in
+
+real	0m1.414s
+user	0m1.239s
+sys	0m0.170s
+74;74
+lem-in
+
+real	0m2.838s
+user	0m2.546s
+sys	0m0.283s
+71;72
+lem-in
+
+real	0m0.960s
+user	0m0.834s
+sys	0m0.122s
+61;61
+lem-in
+
+real	0m1.519s
+user	0m1.348s
+sys	0m0.165s
+60;60
+lem-in
+
+real	0m2.494s
+user	0m2.264s
+sys	0m0.222s
+63;63
+lem-in
+
+real	0m1.946s
+user	0m1.741s
+sys	0m0.198s
+57;57
+lem-in
+
+real	0m2.309s
+user	0m2.099s
+sys	0m0.199s
+56;56
+lem-in
+
+real	0m2.408s
+user	0m2.175s
+sys	0m0.223s
+55;56
+lem-in
+
+real	0m1.860s
+user	0m1.625s
+sys	0m0.228s
+81;81
+lem-in
+
+real	0m1.794s
+user	0m1.614s
+sys	0m0.173s
+47;47
+lem-in
+
+real	0m2.946s
+user	0m2.697s
+sys	0m0.240s
+54;54
+lem-in
+
+real	0m1.980s
+user	0m1.778s
+sys	0m0.190s
+41;41
+lem-in
+
+real	0m1.446s
+user	0m1.271s
+sys	0m0.169s
+67;67
+lem-in
+
+real	0m3.055s
+user	0m2.754s
+sys	0m0.287s
+63;63
+lem-in
+
+real	0m1.299s
+user	0m1.151s
+sys	0m0.143s
+55;55
+lem-in
+
+real	0m3.282s
+user	0m2.980s
+sys	0m0.291s
+66;66
+lem-in
+
+real	0m2.509s
+user	0m2.259s
+sys	0m0.242s
+59;59
+lem-in
+
+real	0m1.454s
+user	0m1.279s
+sys	0m0.170s
+49;49
+lem-in
+
+real	0m2.569s
+user	0m2.315s
+sys	0m0.245s
+47;47
+lem-in
+
+real	0m0.960s
+user	0m0.819s
+sys	0m0.137s
+88;88
+lem-in
+
+real	0m1.742s
+user	0m1.522s
+sys	0m0.212s
+80;81
+lem-in
+
+real	0m3.721s
+user	0m3.420s
+sys	0m0.287s
+48;48
+lem-in
+
+real	0m0.876s
+user	0m0.745s
+sys	0m0.125s
+65;65
+lem-in
+
+real	0m1.735s
+user	0m1.510s
+sys	0m0.212s
+68;68
+lem-in
+
+real	0m1.670s
+user	0m1.472s
+sys	0m0.188s
+59;60
+lem-in
+
+real	0m0.808s
+user	0m0.694s
+sys	0m0.109s
+59;59
+lem-in
+
+real	0m0.992s
+user	0m0.843s
+sys	0m0.140s
+65;65
+lem-in
+
+real	0m2.161s
+user	0m1.918s
+sys	0m0.224s
+63;63
+lem-in
+
+real	0m1.033s
+user	0m0.879s
+sys	0m0.150s
+93;93
+lem-in
+
+real	0m1.020s
+user	0m0.887s
+sys	0m0.126s
+50;50
+lem-in
+
+real	0m1.868s
+user	0m1.676s
+sys	0m0.185s
+52;52
+lem-in
+
+real	0m3.131s
+user	0m2.871s
+sys	0m0.249s
+54;54
+lem-in
+
+real	0m1.908s
+user	0m1.712s
+sys	0m0.189s
+48;48
+lem-in
+
+real	0m1.230s
+user	0m1.064s
+sys	0m0.160s
+76;77
+lem-in
+
+real	0m2.353s
+user	0m2.110s
+sys	0m0.231s
+49;49
+lem-in
+
+real	0m1.503s
+user	0m1.287s
+sys	0m0.199s
+68;68
+lem-in
+
+real	0m2.067s
+user	0m1.819s
+sys	0m0.226s
+64;64
+lem-in
+
+real	0m3.116s
+user	0m2.776s
+sys	0m0.311s
+42;42
+lem-in
+
+real	0m2.276s
+user	0m2.032s
+sys	0m0.230s
+58;58
+lem-in
+
+real	0m1.086s
+user	0m0.947s
+sys	0m0.134s
+62;62
+lem-in
+
+real	0m2.270s
+user	0m2.018s
+sys	0m0.240s
+62;62
+lem-in
+
+real	0m2.719s
+user	0m2.468s
+sys	0m0.237s
+56;56
+lem-in
+
+real	0m2.091s
+user	0m1.876s
+sys	0m0.207s
+50;50
+lem-in
+
+real	0m0.663s
+user	0m0.552s
+sys	0m0.104s
+80;80
+lem-in
+
+real	0m1.397s
+user	0m1.203s
+sys	0m0.183s
+77;77
+lem-in
+
+real	0m2.341s
+user	0m2.115s
+sys	0m0.210s
+52;52
+lem-in
+
+real	0m0.791s
+user	0m0.655s
+sys	0m0.128s
+85;85
+lem-in
+
+real	0m1.886s
+user	0m1.649s
+sys	0m0.221s
+67;67
+lem-in
+
+real	0m2.818s
+user	0m2.548s
+sys	0m0.255s
+44;44
+lem-in
+
+real	0m1.840s
+user	0m1.607s
+sys	0m0.214s
+62;62
+lem-in
+
+real	0m2.185s
+user	0m1.979s
+sys	0m0.199s
+42;42
+lem-in
+
+real	0m2.014s
+user	0m1.785s
+sys	0m0.215s
+63;63
+lem-in
+
+real	0m4.049s
+user	0m3.682s
+sys	0m0.334s
+62;62
+lem-in
+
+real	0m3.065s
+user	0m2.794s
+sys	0m0.252s
+57;57
+lem-in
+
+real	0m2.144s
+user	0m1.915s
+sys	0m0.216s
+52;52
+lem-in
+
+real	0m1.091s
+user	0m0.940s
+sys	0m0.142s
+79;79
+lem-in
+
+real	0m1.362s
+user	0m1.191s
+sys	0m0.160s
+73;73
+lem-in
+
+real	0m1.841s
+user	0m1.641s
+sys	0m0.192s
+49;49
+lem-in
+
+real	0m0.898s
+user	0m0.769s
+sys	0m0.124s
+75;75
+lem-in
+
+real	0m1.689s
+user	0m1.486s
+sys	0m0.195s
+66;66
+lem-in
+
+real	0m2.292s
+user	0m2.065s
+sys	0m0.215s
+44;44
+lem-in
+
+real	0m1.433s
+user	0m1.257s
+sys	0m0.167s
+60;60
+lem-in
+
+real	0m1.891s
+user	0m1.684s
+sys	0m0.195s
+61;61
+lem-in
+
+real	0m0.753s
+user	0m0.642s
+sys	0m0.107s
+59;59
+lem-in
+
+real	0m1.140s
+user	0m0.996s
+sys	0m0.135s
+53;53
+lem-in
+
+real	0m1.873s
+user	0m1.664s
+sys	0m0.198s
+61;62
+lem-in
+
+real	0m3.070s
+user	0m2.781s
+sys	0m0.279s
+64;64
+lem-in
+
+real	0m2.236s
+user	0m2.018s
+sys	0m0.210s
+59;59
+lem-in
+
+real	0m1.171s
+user	0m1.028s
+sys	0m0.138s
+76;77
+lem-in
+
+real	0m2.928s
+user	0m2.632s
+sys	0m0.282s
+51;49
+lem-in
+
+real	0m1.462s
+user	0m1.282s
+sys	0m0.173s
+68;68
+lem-in
+
+real	0m2.245s
+user	0m2.034s
+sys	0m0.203s
+46;46
+lem-in
+
+real	0m2.256s
+user	0m2.003s
+sys	0m0.245s
+74;74
+lem-in
+
+real	0m2.556s
+user	0m2.316s
+sys	0m0.227s
+41;41
+lem-in
+
+real	0m1.856s
+user	0m1.662s
+sys	0m0.186s
+59;59
+lem-in
+
+real	0m3.559s
+user	0m3.222s
+sys	0m0.317s
+63;63
+lem-in
+
+real	0m2.390s
+user	0m2.159s
+sys	0m0.221s
+56;56
+lem-in
+
+real	0m0.890s
+user	0m0.781s
+sys	0m0.103s
+47;47
+lem-in
+
+real	0m2.737s
+user	0m2.487s
+sys	0m0.241s
+54;54
+lem-in
+
+real	0m1.058s
+user	0m0.900s
+sys	0m0.148s
+82;82
+lem-in
+
+real	0m1.909s
+user	0m1.707s
+sys	0m0.186s
+44;44
+lem-in
+
+real	0m3.429s
+user	0m3.112s
+sys	0m0.294s
+49;49
+lem-in
+
+real	0m3.221s
+user	0m2.915s
+sys	0m0.281s
+48;49
+lem-in
+
+real	0m1.461s
+user	0m1.233s
+sys	0m0.179s
+63;63
+lem-in
+
+real	0m1.196s
+user	0m1.024s
+sys	0m0.160s
+61;61
+lem-in
+
+real	0m2.363s
+user	0m2.017s
+sys	0m0.298s
+63;63
+lem-in
+
+real	0m2.449s
+user	0m2.206s
+sys	0m0.222s
+55;55
+lem-in
+
+real	0m1.308s
+user	0m1.135s
+sys	0m0.161s
+50;50
+lem-in
+
+real	0m1.883s
+user	0m1.677s
+sys	0m0.195s
+54;54
+lem-in
+
+real	0m0.998s
+user	0m0.856s
+sys	0m0.138s
+84;84
+lem-in
+
+real	0m1.260s
+user	0m1.084s
+sys	0m0.170s
+80;80
+lem-in
+
+real	0m2.132s
+user	0m1.910s
+sys	0m0.211s
+57;57
+lem-in
+
+real	0m0.917s
+user	0m0.789s
+sys	0m0.125s
+74;75
+lem-in
+
+real	0m1.211s
+user	0m1.046s
+sys	0m0.156s
+78;78
+lem-in
+
+real	0m1.917s
+user	0m1.669s
+sys	0m0.233s
+75;75
+lem-in
+
+real	0m0.857s
+user	0m0.701s
+sys	0m0.132s
+72;72
+lem-in
+
+real	0m0.976s
+user	0m0.774s
+sys	0m0.152s
+70;70
+lem-in
+
+real	0m2.011s
+user	0m1.458s
+sys	0m0.229s
+66;66
+lem-in
+
+real	0m2.552s
+user	0m2.274s
+sys	0m0.248s
+41;41
+lem-in
+
+real	0m2.118s
+user	0m1.862s
+sys	0m0.232s
+60;60
+lem-in
+
+real	0m3.008s
+user	0m2.726s
+sys	0m0.249s
+40;40
+lem-in
+
+real	0m2.408s
+user	0m2.150s
+sys	0m0.229s
+56;56
+lem-in
+
+real	0m1.076s
+user	0m0.898s
+sys	0m0.154s
+47;47
+lem-in
+
+real	0m2.286s
+user	0m1.990s
+sys	0m0.264s
+54;54
+lem-in
+
+real	0m3.498s
+user	0m3.177s
+sys	0m0.304s
+57;57
+lem-in
+
+real	0m2.772s
+user	0m2.505s
+sys	0m0.241s
+51;51
+lem-in
+
+real	0m1.632s
+user	0m1.445s
+sys	0m0.179s
+68;68
+lem-in
+
+real	0m3.766s
+user	0m3.442s
+sys	0m0.309s
+50;50
+lem-in
+
+real	0m2.875s
+user	0m2.594s
+sys	0m0.272s
+64;64
+lem-in
+
+real	0m1.417s
+user	0m1.235s
+sys	0m0.175s
+63;63
+lem-in
+
+real	0m2.338s
+user	0m2.113s
+sys	0m0.215s
+60;60
+lem-in
+
+real	0m1.419s
+user	0m1.240s
+sys	0m0.171s
+60;60
+lem-in
+
+real	0m3.243s
+user	0m2.917s
+sys	0m0.306s
+56;56
+lem-in
+
+real	0m1.554s
+user	0m1.230s
+sys	0m0.197s
+51;52
+lem-in
+
+real	0m2.879s
+user	0m2.554s
+sys	0m0.294s
+54;54
+lem-in
+
+real	0m2.062s
+user	0m1.733s
+sys	0m0.254s
+47;47
+lem-in
+
+real	0m0.640s
+user	0m0.511s
+sys	0m0.118s
+71;71
+lem-in
+
+real	0m1.098s
+user	0m0.928s
+sys	0m0.160s
+76;76
+lem-in
+
+real	0m1.370s
+user	0m1.204s
+sys	0m0.160s
+67;67
+lem-in
+
+real	0m3.215s
+user	0m2.915s
+sys	0m0.285s
+48;47
+lem-in
+
+real	0m2.084s
+user	0m1.781s
+sys	0m0.258s
+67;67
+lem-in
+
+real	0m1.193s
+user	0m1.027s
+sys	0m0.155s
+61;61
+lem-in
+
+real	0m1.732s
+user	0m1.530s
+sys	0m0.187s
+61;61
+lem-in
+
+real	0m3.718s
+user	0m3.359s
+sys	0m0.335s
+62;62
+lem-in
+
+real	0m2.147s
+user	0m1.930s
+sys	0m0.206s
+56;56
+lem-in
+
+real	0m1.447s
+user	0m1.284s
+sys	0m0.158s
+47;47
+lem-in
+
+real	0m3.053s
+user	0m2.742s
+sys	0m0.293s
+54;54
+lem-in
+
+real	0m1.672s
+user	0m1.457s
+sys	0m0.201s
+75;75
+lem-in
+
+real	0m2.410s
+user	0m2.148s
+sys	0m0.246s
+50;50
+lem-in
+
+real	0m1.262s
+user	0m1.102s
+sys	0m0.154s
+64;64
+lem-in
+
+real	0m2.138s
+user	0m1.866s
+sys	0m0.250s
+67;67
+lem-in
+
+real	0m4.215s
+user	0m3.855s
+sys	0m0.337s
+49;49
+lem-in
+
+real	0m1.337s
+user	0m1.153s
+sys	0m0.175s
+60;61
+lem-in
+
+real	0m1.550s
+user	0m1.371s
+sys	0m0.168s
+58;58
+lem-in
+
+real	0m3.340s
+user	0m3.035s
+sys	0m0.289s
+62;62
+lem-in
+
+real	0m2.271s
+user	0m2.050s
+sys	0m0.210s
+54;54
+lem-in
+
+real	0m2.109s
+user	0m1.861s
+sys	0m0.235s
+53;53
+lem-in
+
+real	0m1.841s
+user	0m1.669s
+sys	0m0.165s
+45;45
+lem-in
+
+real	0m1.208s
+user	0m1.049s
+sys	0m0.151s
+71;72
+lem-in
+
+real	0m1.959s
+user	0m1.729s
+sys	0m0.220s
+74;74
+lem-in
+
+real	0m0.616s
+user	0m0.519s
+sys	0m0.094s
+62;62
+lem-in
+
+real	0m0.970s
+user	0m0.835s
+sys	0m0.127s
+66;67
+lem-in
+
+real	0m1.322s
+user	0m1.149s
+sys	0m0.165s
+72;72
+lem-in
+
+real	0m2.351s
+user	0m2.123s
+sys	0m0.210s
+61;61
+lem-in
+
+real	0m1.009s
+user	0m0.876s
+sys	0m0.126s
+59;57
+lem-in
+
+real	0m2.436s
+user	0m2.176s
+sys	0m0.248s
+65;65
+lem-in
+
+real	0m1.586s
+user	0m1.381s
+sys	0m0.194s
+49;49
+lem-in
+
+real	0m2.705s
+user	0m2.430s
+sys	0m0.264s
+61;61
+lem-in
+
+real	0m1.112s
+user	0m0.960s
+sys	0m0.147s
+83;83
+lem-in
+
+real	0m1.566s
+user	0m1.397s
+sys	0m0.163s
+53;53
+lem-in
+
+real	0m0.483s
+user	0m0.402s
+sys	0m0.078s
+73;73
+lem-in
+
+real	0m0.477s
+user	0m0.397s
+sys	0m0.077s
+73;73
+lem-in
+
+real	0m0.732s
+user	0m0.619s
+sys	0m0.110s
+77;77
+lem-in
+
+real	0m1.158s
+user	0m0.993s
+sys	0m0.156s
+79;79
+lem-in
+
+real	0m1.928s
+user	0m1.731s
+sys	0m0.183s
+48;49
+lem-in
+
+real	0m1.424s
+user	0m1.229s
+sys	0m0.187s
+69;69
+lem-in
+
+real	0m1.615s
+user	0m1.415s
+sys	0m0.188s
+68;68
+lem-in
+
+real	0m2.188s
+user	0m1.977s
+sys	0m0.203s
+42;43
+lem-in
+
+real	0m1.933s
+user	0m1.721s
+sys	0m0.201s
+60;60
+lem-in
+
+real	0m3.418s
+user	0m3.139s
+sys	0m0.262s
+48;48
+lem-in
+
+real	0m3.903s
+user	0m3.568s
+sys	0m0.323s
+62;62
+lem-in
+
+real	0m2.549s
+user	0m2.299s
+sys	0m0.241s
+55;55
+lem-in
+
+real	0m1.868s
+user	0m1.675s
+sys	0m0.187s
+47;47
+lem-in
+
+real	0m3.253s
+user	0m2.930s
+sys	0m0.298s
+51;51
+lem-in
+
+real	0m1.773s
+user	0m1.528s
+sys	0m0.212s
+49;49
+lem-in
+
+real	0m0.807s
+user	0m0.690s
+sys	0m0.112s
+73;74
+lem-in
+
+real	0m1.310s
+user	0m1.114s
+sys	0m0.182s
+68;68
+lem-in
+
+real	0m1.979s
+user	0m1.750s
+sys	0m0.214s
+65;65
+lem-in
+
+real	0m1.226s
+user	0m1.059s
+sys	0m0.160s
+67;68
+lem-in
+
+real	0m1.479s
+user	0m1.294s
+sys	0m0.177s
+62;62
+lem-in
+
+real	0m2.768s
+user	0m2.509s
+sys	0m0.247s
+62;62
+lem-in
+
+real	0m0.848s
+user	0m0.738s
+sys	0m0.107s
+55;55
+lem-in
+
+real	0m2.051s
+user	0m1.820s
+sys	0m0.224s
+63;63
+lem-in
+
+real	0m1.259s
+user	0m1.061s
+sys	0m0.189s
+98;98
+lem-in
+
+real	0m1.288s
+user	0m1.113s
+sys	0m0.159s
+52;53
+lem-in
+
+real	0m1.990s
+user	0m1.757s
+sys	0m0.207s
+54;54
+lem-in
+
+real	0m1.813s
+user	0m1.576s
+sys	0m0.227s
+82;82
+lem-in
+
+real	0m1.814s
+user	0m1.617s
+sys	0m0.188s
+53;53
+lem-in
+
+real	0m1.613s
+user	0m1.387s
+sys	0m0.213s
+76;76
+lem-in
+
+real	0m2.625s
+user	0m2.348s
+sys	0m0.263s
+46;46
+lem-in
+
+real	0m1.011s
+user	0m0.870s
+sys	0m0.134s
+66;66
+lem-in
+
+real	0m2.349s
+user	0m2.049s
+sys	0m0.286s
+72;72
+lem-in
+
+real	0m5.747s
+user	0m5.110s
+sys	0m0.494s
+49;49
+lem-in
+
+real	0m1.211s
+user	0m1.059s
+sys	0m0.143s
+55;55
+lem-in
+
+real	0m1.970s
+user	0m1.754s
+sys	0m0.202s
+60;61
+lem-in
+
+real	0m1.947s
+user	0m1.680s
+sys	0m0.255s
+85;85
+lem-in
+
+real	0m2.428s
+user	0m2.165s
+sys	0m0.246s
+56;56
+lem-in
+
+real	0m1.775s
+user	0m1.552s
+sys	0m0.213s
+79;79
+lem-in
+
+real	0m3.414s
+user	0m3.097s
+sys	0m0.297s
+48;48
+lem-in
+
+real	0m3.365s
+user	0m3.024s
+sys	0m0.315s
+46;46
+lem-in
+
+real	0m1.955s
+user	0m1.742s
+sys	0m0.200s
+62;63
+lem-in
+
+real	0m0.824s
+user	0m0.703s
+sys	0m0.113s
+60;60
+lem-in
+
+real	0m1.991s
+user	0m1.762s
+sys	0m0.217s
+59;59
+lem-in
+
+real	0m3.350s
+user	0m3.048s
+sys	0m0.281s
+59;59
+lem-in
+
+real	0m2.494s
+user	0m2.229s
+sys	0m0.248s
+52;53
+lem-in
+
+real	0m0.889s
+user	0m0.752s
+sys	0m0.128s
+82;83
+lem-in
+
+real	0m1.161s
+user	0m1.009s
+sys	0m0.144s
+54;54
+lem-in
+
+real	0m2.691s
+user	0m2.413s
+sys	0m0.258s
+49;49
+lem-in
+
+real	0m2.322s
+user	0m2.012s
+sys	0m0.237s
+67;67
+lem-in
+
+real	0m3.993s
+user	0m3.597s
+sys	0m0.353s
+50;50
+lem-in
+
+real	0m1.448s
+user	0m1.249s
+sys	0m0.186s
+65;65
+lem-in
+
+real	0m1.585s
+user	0m1.386s
+sys	0m0.183s
+58;58
+lem-in
+
+real	0m3.049s
+user	0m2.758s
+sys	0m0.270s
+59;59
+lem-in
+
+real	0m2.277s
+user	0m2.016s
+sys	0m0.247s
+61;61
+lem-in
+
+real	0m1.226s
+user	0m1.039s
+sys	0m0.175s
+86;86
+lem-in
+
+real	0m2.193s
+user	0m1.938s
+sys	0m0.233s
+59;59
+lem-in
+
+real	0m2.633s
+user	0m2.384s
+sys	0m0.237s
+53;53
+lem-in
+
+real	0m1.570s
+user	0m1.397s
+sys	0m0.167s
+43;44
+lem-in
+
+real	0m4.636s
+user	0m4.246s
+sys	0m0.370s
+51;51
+lem-in
+
+real	0m0.774s
+user	0m0.663s
+sys	0m0.107s
+65;65
+lem-in
+
+real	0m1.277s
+user	0m1.106s
+sys	0m0.159s
+62;62
+lem-in
+
+real	0m2.684s
+user	0m2.393s
+sys	0m0.277s
+70;70
+lem-in
+
+real	0m0.887s
+user	0m0.756s
+sys	0m0.124s
+58;58
+lem-in
+
+real	0m1.060s
+user	0m0.928s
+sys	0m0.124s
+54;54
+lem-in
+
+real	0m1.896s
+user	0m1.693s
+sys	0m0.191s
+56;56
+lem-in
+
+real	0m3.073s
+user	0m2.792s
+sys	0m0.267s
+59;59
+lem-in
+
+real	0m2.536s
+user	0m2.279s
+sys	0m0.238s
+58;59
+lem-in
+
+real	0m1.865s
+user	0m1.651s
+sys	0m0.200s
+54;55
+lem-in
+
+real	0m2.500s
+user	0m2.226s
+sys	0m0.251s
+53;53
+lem-in
+
+real	0m1.702s
+user	0m1.485s
+sys	0m0.203s
+72;72
+lem-in
+
+real	0m3.636s
+user	0m3.287s
+sys	0m0.324s
+47;47
+lem-in
+
+real	0m3.275s
+user	0m2.936s
+sys	0m0.308s
+69;69
+lem-in
+
+real	0m2.416s
+user	0m2.096s
+sys	0m0.280s
+60;60
+lem-in
+
+real	0m2.669s
+user	0m2.418s
+sys	0m0.231s
+41;41
+lem-in
+
+real	0m3.758s
+user	0m3.331s
+sys	0m0.366s
+62;62
+lem-in
+
+real	0m1.484s
+user	0m1.313s
+sys	0m0.165s
+55;55
+lem-in
+
+real	0m2.423s
+user	0m2.076s
+sys	0m0.263s
+52;52
+lem-in
+
+real	0m1.962s
+user	0m1.716s
+sys	0m0.225s
+52;52
+lem-in
+
+real	0m3.827s
+user	0m3.440s
+sys	0m0.330s
+53;53
+lem-in
+
+real	0m4.576s
+user	0m4.177s
+sys	0m0.374s
+54;55
+lem-in
+
+real	0m1.182s
+user	0m1.012s
+sys	0m0.158s
+63;63
+lem-in
+
+real	0m1.152s
+user	0m1.007s
+sys	0m0.136s
+63;63
+lem-in
+
+real	0m2.059s
+user	0m1.832s
+sys	0m0.211s
+61;62
+lem-in
+
+real	0m1.129s
+user	0m0.983s
+sys	0m0.136s
+55;55
+lem-in
+
+real	0m1.702s
+user	0m1.507s
+sys	0m0.183s
+56;56
+lem-in
+
+real	0m2.720s
+user	0m2.437s
+sys	0m0.258s
+59;59
+lem-in
+
+real	0m1.830s
+user	0m1.632s
+sys	0m0.189s
+52;52
+lem-in
+
+real	0m3.062s
+user	0m2.739s
+sys	0m0.304s
+57;57
+lem-in
+
+real	0m2.882s
+user	0m2.619s
+sys	0m0.245s
+50;50
+lem-in
+
+real	0m2.500s
+user	0m2.267s
+sys	0m0.222s
+48;48
+lem-in
+
+real	0m1.911s
+user	0m1.707s
+sys	0m0.196s
+61;61
+lem-in
+
+real	0m2.740s
+user	0m2.478s
+sys	0m0.244s
+63;63
+lem-in
+
+real	0m2.307s
+user	0m2.035s
+sys	0m0.253s
+60;60
+lem-in
+
+real	0m1.538s
+user	0m1.330s
+sys	0m0.194s
+57;57
+lem-in
+
+real	0m1.344s
+user	0m1.183s
+sys	0m0.147s
+50;50
+lem-in
+
+real	0m3.177s
+user	0m2.881s
+sys	0m0.278s
+53;53
+lem-in
+
+real	0m1.973s
+user	0m1.752s
+sys	0m0.202s
+50;50
+lem-in
+
+real	0m0.969s
+user	0m0.828s
+sys	0m0.135s
+74;74
+lem-in
+
+real	0m1.385s
+user	0m1.198s
+sys	0m0.177s
+74;74
+lem-in
+
+real	0m2.666s
+user	0m2.424s
+sys	0m0.228s
+49;49
+lem-in
+
+real	0m0.754s
+user	0m0.633s
+sys	0m0.114s
+71;71
+lem-in
+
+real	0m1.643s
+user	0m1.446s
+sys	0m0.188s
+69;69
+lem-in
+
+real	0m2.385s
+user	0m2.140s
+sys	0m0.223s
+45;45
+lem-in
+
+real	0m1.630s
+user	0m1.432s
+sys	0m0.186s
+59;59

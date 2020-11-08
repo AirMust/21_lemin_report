@@ -1,0 +1,3000 @@
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
+34;34
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
+34;34
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
+34;34
+lem-in
+
+real	0m0.015s
+user	0m0.008s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.018s
+sys	0m0.008s
+33;33
+lem-in
+
+real	0m0.028s
+user	0m0.018s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.032s
+user	0m0.019s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.033s
+user	0m0.020s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.028s
+user	0m0.019s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.018s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.028s
+user	0m0.018s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.019s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.019s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.018s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.025s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.029s
+user	0m0.019s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.027s
+user	0m0.018s
+sys	0m0.007s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.026s
+user	0m0.018s
+sys	0m0.006s
+33;33
+lem-in
+
+real	0m0.050s
+user	0m0.037s
+sys	0m0.011s
+32;32
+lem-in
+
+real	0m0.048s
+user	0m0.036s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.011s
+32;32
+lem-in
+
+real	0m0.047s
+user	0m0.036s
+sys	0m0.009s
+32;32
+lem-in
+
+real	0m0.048s
+user	0m0.035s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.044s
+user	0m0.034s
+sys	0m0.009s
+32;32
+lem-in
+
+real	0m0.049s
+user	0m0.036s
+sys	0m0.012s
+32;32
+lem-in
+
+real	0m0.045s
+user	0m0.034s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.048s
+user	0m0.035s
+sys	0m0.010s
+32;32
+lem-in
+
+real	0m0.045s
+user	0m0.035s
+sys	0m0.009s
+32;32
+lem-in
+
+real	0m0.049s
+user	0m0.037s
+sys	0m0.011s
+32;32
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.009s
+32;32
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.009s
+32;32
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.005s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.006s
+31;31
+lem-in
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.005s
+31;31
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.003s
+31;31
+lem-in
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.005s
+31;31
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+31;31
+lem-in
+
+real	0m0.049s
+user	0m0.032s
+sys	0m0.012s
+30;30
+lem-in
+
+real	0m0.051s
+user	0m0.033s
+sys	0m0.015s
+30;30
+lem-in
+
+real	0m0.063s
+user	0m0.037s
+sys	0m0.022s
+30;30
+lem-in
+
+real	0m0.059s
+user	0m0.036s
+sys	0m0.019s
+30;30
+lem-in
+
+real	0m0.047s
+user	0m0.031s
+sys	0m0.013s
+30;30
+lem-in
+
+real	0m0.039s
+user	0m0.029s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.039s
+user	0m0.028s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.045s
+user	0m0.032s
+sys	0m0.011s
+30;30
+lem-in
+
+real	0m0.045s
+user	0m0.030s
+sys	0m0.011s
+30;30
+lem-in
+
+real	0m0.039s
+user	0m0.029s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.044s
+user	0m0.030s
+sys	0m0.012s
+30;30
+lem-in
+
+real	0m0.054s
+user	0m0.037s
+sys	0m0.014s
+30;30
+lem-in
+
+real	0m0.056s
+user	0m0.034s
+sys	0m0.018s
+30;30
+lem-in
+
+real	0m0.014s
+user	0m0.005s
+sys	0m0.006s
+29;29
+lem-in
+
+real	0m0.012s
+user	0m0.005s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.010s
+user	0m0.004s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.005s
+sys	0m0.007s
+29;29
+lem-in
+
+real	0m0.011s
+user	0m0.005s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.011s
+user	0m0.005s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.012s
+user	0m0.005s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.010s
+user	0m0.005s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.010s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.003s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.009s
+user	0m0.003s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.017s
+user	0m0.005s
+sys	0m0.007s
+29;29
+lem-in
+
+real	0m0.018s
+user	0m0.005s
+sys	0m0.006s
+29;29
+lem-in
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.003s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.006s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.008s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.003s
+29;29
+lem-in
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+29;29
+lem-in
+
+real	0m0.030s
+user	0m0.019s
+sys	0m0.009s
+28;28
+lem-in
+
+real	0m0.021s
+user	0m0.013s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.024s
+user	0m0.015s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.024s
+user	0m0.014s
+sys	0m0.008s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.021s
+user	0m0.013s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.021s
+user	0m0.013s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.021s
+user	0m0.013s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.023s
+user	0m0.013s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.006s
+28;28
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+28;28
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.040s
+user	0m0.029s
+sys	0m0.010s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.037s
+user	0m0.027s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.037s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.037s
+user	0m0.028s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.036s
+user	0m0.027s
+sys	0m0.007s
+30;30
+lem-in
+
+real	0m0.040s
+user	0m0.028s
+sys	0m0.010s
+30;30
+lem-in
+
+real	0m0.038s
+user	0m0.028s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.037s
+user	0m0.028s
+sys	0m0.007s
+30;30
+lem-in
+
+real	0m0.040s
+user	0m0.030s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.040s
+user	0m0.030s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.041s
+user	0m0.029s
+sys	0m0.011s
+30;30
+lem-in
+
+real	0m0.041s
+user	0m0.029s
+sys	0m0.009s
+30;30
+lem-in
+
+real	0m0.040s
+user	0m0.029s
+sys	0m0.008s
+30;30
+lem-in
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.021s
+user	0m0.011s
+sys	0m0.006s
+29;29
+lem-in
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.020s
+user	0m0.011s
+sys	0m0.007s
+29;29
+lem-in
+
+real	0m0.021s
+user	0m0.012s
+sys	0m0.007s
+29;29
+lem-in
+
+real	0m0.024s
+user	0m0.012s
+sys	0m0.009s
+29;29
+lem-in
+
+real	0m0.022s
+user	0m0.012s
+sys	0m0.008s
+29;29
+lem-in
+
+real	0m0.021s
+user	0m0.012s
+sys	0m0.007s
+29;29
+lem-in
+
+real	0m0.026s
+user	0m0.013s
+sys	0m0.010s
+29;29
+lem-in
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.005s
+29;29
+lem-in
+
+real	0m0.022s
+user	0m0.011s
+sys	0m0.008s
+29;29
+lem-in
+
+real	0m0.022s
+user	0m0.013s
+sys	0m0.008s
+29;29
+lem-in
+
+real	0m0.058s
+user	0m0.036s
+sys	0m0.018s
+28;28
+lem-in
+
+real	0m0.046s
+user	0m0.030s
+sys	0m0.014s
+28;28
+lem-in
+
+real	0m0.045s
+user	0m0.031s
+sys	0m0.012s
+28;28
+lem-in
+
+real	0m0.043s
+user	0m0.029s
+sys	0m0.012s
+28;28
+lem-in
+
+real	0m0.044s
+user	0m0.029s
+sys	0m0.013s
+28;28
+lem-in
+
+real	0m0.048s
+user	0m0.030s
+sys	0m0.015s
+28;28
+lem-in
+
+real	0m0.044s
+user	0m0.030s
+sys	0m0.013s
+28;28
+lem-in
+
+real	0m0.046s
+user	0m0.030s
+sys	0m0.014s
+28;28
+lem-in
+
+real	0m0.046s
+user	0m0.030s
+sys	0m0.014s
+28;28
+lem-in
+
+real	0m0.049s
+user	0m0.033s
+sys	0m0.012s
+28;28
+lem-in
+
+real	0m0.040s
+user	0m0.028s
+sys	0m0.009s
+28;28
+lem-in
+
+real	0m0.036s
+user	0m0.026s
+sys	0m0.009s
+28;28
+lem-in
+
+real	0m0.037s
+user	0m0.026s
+sys	0m0.009s
+28;28
+lem-in
+
+real	0m0.039s
+user	0m0.027s
+sys	0m0.009s
+28;28
+lem-in
+
+real	0m0.036s
+user	0m0.026s
+sys	0m0.007s
+28;28
+lem-in
+
+real	0m0.036s
+user	0m0.026s
+sys	0m0.008s
+28;28
+lem-in
+
+real	0m0.037s
+user	0m0.026s
+sys	0m0.009s
+28;28
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.016s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.006s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.019s
+user	0m0.010s
+sys	0m0.006s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.016s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.016s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.005s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
+27;27
+lem-in
+
+real	0m0.025s
+user	0m0.018s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.019s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.023s
+user	0m0.016s
+sys	0m0.005s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.023s
+user	0m0.016s
+sys	0m0.005s
+36;36
+lem-in
+
+real	0m0.026s
+user	0m0.019s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.018s
+sys	0m0.008s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.026s
+user	0m0.017s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.018s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.025s
+user	0m0.017s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.050s
+user	0m0.036s
+sys	0m0.012s
+35;35
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.050s
+user	0m0.036s
+sys	0m0.013s
+35;35
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.049s
+user	0m0.038s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.009s
+35;35
+lem-in
+
+real	0m0.047s
+user	0m0.035s
+sys	0m0.011s
+35;35
+lem-in
+
+real	0m0.054s
+user	0m0.040s
+sys	0m0.012s
+35;35
+lem-in
+
+real	0m0.048s
+user	0m0.035s
+sys	0m0.011s
+35;35
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.009s
+35;35
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.047s
+user	0m0.036s
+sys	0m0.011s
+35;35
+lem-in
+
+real	0m0.048s
+user	0m0.035s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.046s
+user	0m0.035s
+sys	0m0.009s
+35;35
+lem-in
+
+real	0m0.047s
+user	0m0.036s
+sys	0m0.009s
+35;35
+lem-in
+
+real	0m0.048s
+user	0m0.036s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.048s
+user	0m0.036s
+sys	0m0.010s
+35;35
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.012s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.012s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.012s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.018s
+user	0m0.012s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.020s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.021s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.020s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.020s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.021s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.021s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.021s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.027s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.021s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.007s
+36;36
+lem-in
+
+real	0m0.028s
+user	0m0.020s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.029s
+user	0m0.021s
+sys	0m0.006s
+36;36
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.005s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.004s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.003s
+35;35
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.014s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.021s
+user	0m0.013s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.014s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.021s
+user	0m0.014s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.007s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.014s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.014s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.014s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.022s
+user	0m0.015s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.006s
+34;34
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.004s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.020s
+user	0m0.013s
+sys	0m0.005s
+34;34
+lem-in
+
+real	0m0.045s
+user	0m0.032s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.043s
+user	0m0.032s
+sys	0m0.009s
+33;33
+lem-in
+
+real	0m0.044s
+user	0m0.031s
+sys	0m0.011s
+33;33
+lem-in
+
+real	0m0.042s
+user	0m0.031s
+sys	0m0.009s
+33;33
+lem-in
+
+real	0m0.043s
+user	0m0.031s
+sys	0m0.011s
+33;33
+lem-in
+
+real	0m0.042s
+user	0m0.031s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.043s
+user	0m0.031s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.044s
+user	0m0.031s
+sys	0m0.012s
+33;33
+lem-in
+
+real	0m0.042s
+user	0m0.031s
+sys	0m0.009s
+33;33
+lem-in
+
+real	0m0.041s
+user	0m0.031s
+sys	0m0.008s
+33;33
+lem-in
+
+real	0m0.043s
+user	0m0.031s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.044s
+user	0m0.032s
+sys	0m0.011s
+33;33
+lem-in
+
+real	0m0.043s
+user	0m0.031s
+sys	0m0.011s
+33;33
+lem-in
+
+real	0m0.044s
+user	0m0.033s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.045s
+user	0m0.031s
+sys	0m0.012s
+33;33
+lem-in
+
+real	0m0.042s
+user	0m0.031s
+sys	0m0.009s
+33;33
+lem-in
+
+real	0m0.044s
+user	0m0.032s
+sys	0m0.010s
+33;33
+lem-in
+
+real	0m0.045s
+user	0m0.032s
+sys	0m0.011s
+33;33
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.019s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.021s
+user	0m0.012s
+sys	0m0.006s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.004s
+32;32
+lem-in
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.005s
+32;32
+lem-in
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+32;32
